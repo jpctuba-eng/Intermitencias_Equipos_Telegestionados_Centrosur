@@ -1,0 +1,2 @@
+# Intermitencias_Equipos_Telegestionados_Centrosur
+Revisión de intermitencias diarias de equipos telegestionados
